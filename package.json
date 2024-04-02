@@ -4,10 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Tets running...\"",
+    "test": "jest",
     "build": "echo \"Build running...\"",
     "deploy": "echo \"Deploy running...\""
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
