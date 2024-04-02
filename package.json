@@ -1,0 +1,13 @@
+{
+  "name": "aula9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tets running...\"",
+    "build": "echo \"Build running...\"",
+    "deploy": "echo \"Deploy running...\""
+  },
+  "author": "",
+  "license": "ISC"
+}
